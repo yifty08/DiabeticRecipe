@@ -1,0 +1,13 @@
+h1, ul, p {
+    text-align: center;
+    list-style-type: none;
+}
+img{
+    width: 500px;
+}
+
+a, p {
+    padding: 5px;
+    font-size: large;
+    line-height: 25px;
+}
